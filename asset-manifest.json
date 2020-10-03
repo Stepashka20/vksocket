@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/vksocket/static/css/main.4ef4d824.chunk.css",
+    "main.js": "/vksocket/static/js/main.7183112a.chunk.js",
+    "main.js.map": "/vksocket/static/js/main.7183112a.chunk.js.map",
+    "runtime-main.js": "/vksocket/static/js/runtime-main.58984e6d.js",
+    "runtime-main.js.map": "/vksocket/static/js/runtime-main.58984e6d.js.map",
+    "static/css/2.86df01db.chunk.css": "/vksocket/static/css/2.86df01db.chunk.css",
+    "static/js/2.0bd9eb29.chunk.js": "/vksocket/static/js/2.0bd9eb29.chunk.js",
+    "static/js/2.0bd9eb29.chunk.js.map": "/vksocket/static/js/2.0bd9eb29.chunk.js.map",
+    "index.html": "/vksocket/index.html",
+    "precache-manifest.f2dfc7bbce11f4e1962a94c6e85caa51.js": "/vksocket/precache-manifest.f2dfc7bbce11f4e1962a94c6e85caa51.js",
+    "service-worker.js": "/vksocket/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/vksocket/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.4ef4d824.chunk.css.map": "/vksocket/static/css/main.4ef4d824.chunk.css.map",
+    "static/js/2.0bd9eb29.chunk.js.LICENSE.txt": "/vksocket/static/js/2.0bd9eb29.chunk.js.LICENSE.txt",
+    "static/media/coinpic.png": "/vksocket/static/media/coinpic.d9408e7c.png",
+    "static/media/persik.png": "/vksocket/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58984e6d.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.0bd9eb29.chunk.js",
+    "static/css/main.4ef4d824.chunk.css",
+    "static/js/main.7183112a.chunk.js"
+  ]
+}
